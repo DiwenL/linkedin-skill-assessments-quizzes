@@ -828,7 +828,7 @@
 ![image](images/Q101.png)
 
 - [ ] The dates are erroneous, such as October 39, 2015.
-- [ ] The columns aren't wide enough to show the full date.
+- [x] The columns aren't wide enough to show the full date.
 - [ ] The time are incorrectly formatted as dates.
 - [ ] The text is incorrectly formatted as dates.
 
